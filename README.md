@@ -11,7 +11,7 @@ The system includes the basic of banking system such as
 - Log in using created Username and Password
 - Depositing a money (adding in a current balance)
   - Can Print a Deposit Reciept (includes date)
- - Withdraw a money (deduction in a current balance)
+- Withdraw a money (deduction in a current balance)
   - Must have a 300php maintaining balance
   - Can Print a Withdraw Reciept (includes date)
 3. Check Balance
