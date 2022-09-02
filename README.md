@@ -4,9 +4,9 @@ a simple Banking system or a simple ATM machine
 The system includes the basic of banking system such as
 
 1. Creating Account and Adding Multiple Accounts
- 1.1. Input USERNAME and PASSWORD
-   1.2. Auto generated Unique ID with 8 characters
-   1.3. With automatic 0php Balance
+1.1. Input USERNAME and PASSWORD
+1.2. Auto generated Unique ID with 8 characters
+1.3. With automatic 0php Balance
 2. Deposit and Withdraw
    2.1. Log in using created Username and Password\n
    2.2. Depositing a money (adding in a current balance)
