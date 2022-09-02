@@ -8,14 +8,14 @@ The system includes the basic of banking system such as
 - Auto generated Unique ID with 8 characters
 - With automatic 0php Balance
 2. Deposit and Withdraw
-- Log in using created Username and Password\n
+- Log in using created Username and Password
 - Depositing a money (adding in a current balance)
   - Can Print a Deposit Reciept (includes date)
  - Withdraw a money (deduction in a current balance)
-  - 2.3.1. Must have a 300php maintaining balance
-  - 2.3.2. Can Print a Withdraw Reciept (includes date)
+  - Must have a 300php maintaining balance
+  - Can Print a Withdraw Reciept (includes date)
 3. Check Balance
-- 3.1. Shows (ID, Username, Password and Current Balance)
+- Shows (ID, Username, Password and Current Balance)
 4. Admin Role
 - Sees all acounts including their (ID, Username, Password and Current Balance)
 - Can Print accounts
